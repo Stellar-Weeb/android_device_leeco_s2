@@ -1,0 +1,3 @@
+
+<!-- Smart Charging enable -->
+<bool name="config_supportSmartCharging">true</bool>
