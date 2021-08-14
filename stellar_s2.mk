@@ -24,7 +24,7 @@ $(call inherit-product, device/leeco/s2/device.mk)
 # Inherit some common LineageOS stuff.
 $(call inherit-product, vendor/stellar/config/common_full_phone.mk)
 
-# Device identifier. This must come after all inclusions.
+# Device identifier. This must come after all inclusions
 PRODUCT_BRAND := LeEco
 PRODUCT_DEVICE := s2
 PRODUCT_MANUFACTURER := LeMobile
