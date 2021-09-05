@@ -1,7 +1,8 @@
 [
   {
-    "repository": "android_kernel_leeco_msm8976",
+    "repository": "Stellar-Devices/android_kernel_leeco_msm8976",
     "target_path": "kernel/leeco/msm8976"
+    "branch": "stellar-S1"
   },
   {
     "repository": "tImIbreakdown/proprietary_vendor_leeco",
