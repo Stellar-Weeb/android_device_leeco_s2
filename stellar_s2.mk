@@ -35,6 +35,7 @@ PRODUCT_GMS_CLIENTID_BASE := android-leeco
 PRODUCT_BUILD_PROP_OVERRIDES += \
     TARGET_DEVICE=le_s2_ww \
     PRODUCT_NAME=Le2_WW \
-    PRIVATE_BUILD_DESC="redfin-user 11 RQ3A.210805.001.A1 7474174 release-keys"
+    PRIVATE_BUILD_DESC="redfin-user 11 RQ3A.210905.001.A1 7511028 release-keys"
 
 BUILD_FINGERPRINT := google/redfin/redfin:11/RQ3A.210805.001.A1/7474174:user/release-keys
+BUILD_FINGERPRINT := google/redfin/redfin:11/RQ3A.210905.001/7511028:user/release-keys
